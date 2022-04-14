@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var URL_SELECT_THEME="/ajax/selectTheme";function showHide(A,B){jQuery(B).hide();jQuery(A).show()}function selectTheme(A){new Ajax.Request(URL_SELECT_THEME+"/"+A,{method:"post",onSuccess:function(C){var B=C.responseText;parseResponse(B);if(responseArray.code=="0"){jQuery("#selectTheme").html(responseArray.html)}},onFailure:function(){displayFeedbackWithScrollTop("1"+GT.gettext("Error contacting the server"))}})}function skipTutorial(){grayOut(false);jQuery("#theme_loading").hide();jQuery(".theme_buttons").show();var A=new Date();A.setTime(A.getTime()+365*24*60*60*1000);document.cookie="_ht2=1;path=/;expires="+A.toGMTString()+";";if(typeof pageTracker!="undefined"&&pageTracker){pageTracker._trackPageview("/pageTracker/ajax/overlay/tutorial/false")}};
+
+}
+/*
+     FILE ARCHIVED ON 01:27:35 Dec 25, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:50:40 Apr 13, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 176.133
+  exclusion.robots: 0.098
+  exclusion.robots.policy: 0.089
+  RedisCDXSource: 0.771
+  esindex: 0.009
+  LoadShardBlock: 152.581 (3)
+  PetaboxLoader3.datanode: 212.048 (4)
+  CDXLines.iter: 20.425 (3)
+  load_resource: 129.677
+  PetaboxLoader3.resolve: 18.573
+*/

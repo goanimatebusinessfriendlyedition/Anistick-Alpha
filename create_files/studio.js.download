@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var previewPlayerTempData="";function newAnimation(){window.location="/studio"}function savePreviewData(A){previewPlayerTempData=A}function retrievePreviewPlayerData(){var A=previewPlayerTempData;previewPlayerTempData="";return A}var sceneNum;function getSceneNum(A){sceneNum=A}function scenePreview(){$("Player").onExternalPreviewScenePreview(sceneNum)}function callSceneNum(){$("Player").onExternalPreviewCallSceneNum(sceneNum)}jQuery(window).bind("resize",ajust_studio);jQuery(document).ready(ajust_studio);var resize_studio=true;function ajust_studio(){if(!resize_studio){return }var D=960;var B=640;var C=Math.max(jQuery(window).width(),D);jQuery("#studio_container").width(C);var A=jQuery(window).height()-(jQuery("div.header").length>0?80:0);A=Math.max(A,B);jQuery("#studio_container").height(A)}function previewSceen(){if(!resize_studio){return false}resize_studio=false;jQuery("#studio_container").width(1).height(1);jQuery("body").removeClass("full_screen_studio").addClass("preview_player")}function showCCBrowser(){previewSceen();jQuery("body").addClass("ccbrowser");jQuery("#ccbrowserdiv").css("visibility","visible");Gallery.fetchModel("*")}function hideCCBrowser(){jQuery("body").removeClass("ccbrowser");jQuery("#ccbrowserdiv").css("visibility","hidden");restoreStudio()}function restoreStudio(){resize_studio=true;jQuery("body").removeClass("preview_player").addClass("full_screen_studio");ajust_studio()};
+
+}
+/*
+     FILE ARCHIVED ON 01:27:38 Dec 25, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:50:40 Apr 13, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 66.502
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.082
+  RedisCDXSource: 4.756
+  esindex: 0.008
+  LoadShardBlock: 40.944 (3)
+  PetaboxLoader3.datanode: 50.07 (4)
+  CDXLines.iter: 18.505 (3)
+  load_resource: 266.66
+  PetaboxLoader3.resolve: 204.29
+*/
