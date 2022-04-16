@@ -23,8 +23,8 @@ google.loader.writeLoadTag("script", google.loader.ServiceBase + "/api/gdata/1.1
 
 }
 /*
-     FILE ARCHIVED ON 08:48:26 Jan 28, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:50:43 Apr 13, 2022.
+     FILE ARCHIVED ON 10:35:47 Feb 09, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:25 Apr 16, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -32,14 +32,14 @@ google.loader.writeLoadTag("script", google.loader.ServiceBase + "/api/gdata/1.1
 */
 /*
 playback timings (ms):
-  captures_list: 74.226
-  exclusion.robots: 0.132
-  exclusion.robots.policy: 0.12
-  RedisCDXSource: 0.707
-  esindex: 0.011
-  LoadShardBlock: 45.038 (3)
-  PetaboxLoader3.datanode: 44.416 (4)
-  CDXLines.iter: 19.657 (3)
-  load_resource: 75.643
-  PetaboxLoader3.resolve: 24.768
+  captures_list: 104.153
+  exclusion.robots: 0.124
+  exclusion.robots.policy: 0.115
+  RedisCDXSource: 0.671
+  esindex: 0.01
+  LoadShardBlock: 78.908 (3)
+  PetaboxLoader3.datanode: 71.956 (4)
+  CDXLines.iter: 18.574 (3)
+  load_resource: 88.503
+  PetaboxLoader3.resolve: 43.447
 */

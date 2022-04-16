@@ -14,8 +14,8 @@ function set_cookie(B,G,I,F,H,J,E,A){var D=B+"="+escape(G);if(I){var C=new Date(
 
 }
 /*
-     FILE ARCHIVED ON 01:17:21 Dec 25, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:50:39 Apr 13, 2022.
+     FILE ARCHIVED ON 13:25:34 Aug 01, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:18 Apr 16, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,14 +23,14 @@ function set_cookie(B,G,I,F,H,J,E,A){var D=B+"="+escape(G);if(I){var C=new Date(
 */
 /*
 playback timings (ms):
-  captures_list: 59.54
-  exclusion.robots: 0.171
-  exclusion.robots.policy: 0.159
-  RedisCDXSource: 0.679
-  esindex: 0.01
-  LoadShardBlock: 32.719 (3)
-  PetaboxLoader3.datanode: 44.301 (4)
-  CDXLines.iter: 23.058 (3)
-  load_resource: 66.102
-  PetaboxLoader3.resolve: 34.638
+  captures_list: 101.691
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.084
+  RedisCDXSource: 4.655
+  esindex: 0.007
+  LoadShardBlock: 77.504 (3)
+  PetaboxLoader3.datanode: 82.893 (4)
+  CDXLines.iter: 17.548 (3)
+  load_resource: 90.815
+  PetaboxLoader3.resolve: 79.253
 */

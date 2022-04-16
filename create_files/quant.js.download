@@ -42,8 +42,8 @@ quantserve();
 
 }
 /*
-     FILE ARCHIVED ON 00:16:53 Dec 25, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:50:45 Apr 13, 2022.
+     FILE ARCHIVED ON 14:09:03 Aug 01, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:22 Apr 16, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -51,13 +51,13 @@ quantserve();
 */
 /*
 playback timings (ms):
-  exclusion.robots: 0.105
-  exclusion.robots.policy: 0.092
-  RedisCDXSource: 0.874
-  esindex: 0.01
-  LoadShardBlock: 229.185 (6)
-  PetaboxLoader3.datanode: 222.727 (7)
-  CDXLines.iter: 94.777 (3)
-  PetaboxLoader3.resolve: 95.46 (2)
-  load_resource: 96.3
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.082
+  cdx.remote: 0.103
+  esindex: 0.009
+  LoadShardBlock: 306.595 (6)
+  PetaboxLoader3.datanode: 230.105 (7)
+  CDXLines.iter: 73.06 (3)
+  load_resource: 53.102
+  PetaboxLoader3.resolve: 29.128
 */

@@ -14,8 +14,8 @@ var URL_IMPORT_GMAIL="/ajax/importgmail";var URL_ADDRESS_BOOK="/ajax/addressbook
 
 }
 /*
-     FILE ARCHIVED ON 01:17:52 Dec 25, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:50:40 Apr 13, 2022.
+     FILE ARCHIVED ON 09:06:13 Jul 31, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:18 Apr 16, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,14 +23,14 @@ var URL_IMPORT_GMAIL="/ajax/importgmail";var URL_ADDRESS_BOOK="/ajax/addressbook
 */
 /*
 playback timings (ms):
-  captures_list: 53.892
-  exclusion.robots: 0.15
-  exclusion.robots.policy: 0.143
-  RedisCDXSource: 0.679
-  esindex: 0.008
-  LoadShardBlock: 31.573 (3)
-  PetaboxLoader3.datanode: 39.739 (4)
-  CDXLines.iter: 19.112 (3)
-  load_resource: 50.153
-  PetaboxLoader3.resolve: 23.957
+  captures_list: 82.973
+  exclusion.robots: 0.134
+  exclusion.robots.policy: 0.124
+  RedisCDXSource: 1.752
+  esindex: 0.01
+  LoadShardBlock: 54.311 (3)
+  PetaboxLoader3.datanode: 82.681 (4)
+  CDXLines.iter: 24.254 (3)
+  load_resource: 66.829
+  PetaboxLoader3.resolve: 34.988
 */
