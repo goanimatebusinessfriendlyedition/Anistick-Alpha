@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: url('http://web.archive.org/web/20110804101154im_/http://themes.googleusercontent.com/static/fonts/droidsans/v1/EFpQQyG9GqCrobXxL-KRMWzklk6MJbhg7BmBP42CjCQ.eot');
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url('http://web.archive.org/web/20110804101154im_/http://themes.googleusercontent.com/static/fonts/droidsans/v1/EFpQQyG9GqCrobXxL-KRMQFhaRv2pGgT5Kf0An0s4MM.woff') format('woff');
+}
+
+/*
+     FILE ARCHIVED ON 10:11:54 Aug 04, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:06:22 Apr 16, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 165.067
+  exclusion.robots: 0.111
+  exclusion.robots.policy: 0.101
+  RedisCDXSource: 0.725
+  esindex: 0.008
+  LoadShardBlock: 27.728 (3)
+  PetaboxLoader3.datanode: 38.896 (4)
+  CDXLines.iter: 45.618 (3)
+  load_resource: 78.054
+  PetaboxLoader3.resolve: 46.765
+*/
