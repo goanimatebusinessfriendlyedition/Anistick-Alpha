@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+function addVotes(B,A,D){var C="#movie_vote_"+D;jQuery.get("/ajax/addUserVotes/"+B+"/"+D,function(J){if(J.error){displayFeedback("1"+J.error)}else{if(J.non_login){jQuery("#movie_signup_container").slideDown()}else{var I="#movie_vote_"+J.type_id;var E="#count_"+J.type_id;var H=jQuery(E).text();var F=jQuery(I).find(".tooltip").html()+"!";var G=jQuery("#facebook_textboxes").val();if(J.type=="remove"){H=parseInt(H)-1;jQuery(I).removeClass("voted");if(H>0&&H!=""){jQuery(I).addClass("counted")}else{H="";jQuery(I).removeClass("counted")}if(G.indexOf(F)!=-1){jQuery("#facebook_textboxes").val(G.replace(F+" ",""))}}else{if(J.type=="add"){if(H==""){H=1}else{H=parseInt(H)+1}jQuery(I).removeClass("counted");jQuery(I).addClass("voted");if(G.indexOf(F)==-1){jQuery("#facebook_textboxes").val(F+" "+jQuery("#facebook_textboxes").val())}jQuery("#movie_vote_facebook").slideDown();jQuery("#facebook_textboxes").focus()}}jQuery(E).text(H);if(typeof (localStorage)=="undefined"){}else{try{localStorage.setItem("ga_ls_"+B+"_"+A,J.votedArray)}catch(K){if(K==QUOTA_EXCEEDED_ERR){}}}}}},"json")}function twitter_custom_share(A){var C=encodeURI(jQuery("#facebook_textboxes").val());var B="http://web.archive.org/web/20111203065334/http://twitter.com/share?url="+A+"&text="+C;window.open(B)}function closeBox(){jQuery("#movie_signup_container").slideUp();jQuery(".movie_vote_facebook").slideUp()};
+
+}
+/*
+     FILE ARCHIVED ON 06:53:34 Dec 03, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:59:37 Apr 16, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 172.656
+  exclusion.robots: 0.122
+  exclusion.robots.policy: 0.112
+  RedisCDXSource: 1.424
+  esindex: 0.01
+  LoadShardBlock: 146.076 (3)
+  PetaboxLoader3.datanode: 125.375 (4)
+  CDXLines.iter: 22.318 (3)
+  load_resource: 125.987
+  PetaboxLoader3.resolve: 67.221
+*/
