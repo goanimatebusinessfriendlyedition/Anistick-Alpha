@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+function set_cookie(B,G,I,F,H,J,E,A){var D=B+"="+escape(G);if(I){var C=new Date(I,F,H);D+="; expires="+C.toGMTString()}if(J){D+="; path="+escape(J)}if(E){D+="; domain="+escape(E)}if(A){D+="; secure"}document.cookie=D}function delete_cookie(B){var A=new Date();A.setTime(A.getTime()-1);document.cookie=B+="=; expires="+A.toGMTString()}function get_cookie(B){var A=document.cookie.match("(^|;) ?"+B+"=([^;]*)(;|$)");if(A){return(unescape(A[2]))}else{return null}};
+
+}
+/*
+     FILE ARCHIVED ON 04:35:40 May 20, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:30:57 Apr 16, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 121.079
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.074
+  RedisCDXSource: 0.669
+  esindex: 0.007
+  LoadShardBlock: 101.105 (3)
+  PetaboxLoader3.datanode: 198.379 (4)
+  CDXLines.iter: 17.367 (3)
+  load_resource: 182.507
+  PetaboxLoader3.resolve: 78.512
+*/
