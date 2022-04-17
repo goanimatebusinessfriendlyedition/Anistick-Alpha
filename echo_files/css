@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url('http://web.archive.org/web/20110604164802im_/http://themes.googleusercontent.com/font?kit=EFpQQyG9GqCrobXxL-KRMfEr6Hm6RMS0v1dtXsGir4g') format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 16:48:02 Jun 04, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:08:28 Apr 17, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 906.63
+  exclusion.robots: 0.135
+  exclusion.robots.policy: 0.123
+  RedisCDXSource: 560.777
+  esindex: 0.02
+  LoadShardBlock: 171.655 (3)
+  PetaboxLoader3.datanode: 261.739 (5)
+  CDXLines.iter: 50.869 (3)
+  load_resource: 333.48 (2)
+  PetaboxLoader3.resolve: 161.513 (2)
+*/
